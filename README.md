@@ -1,7 +1,7 @@
 NEURAL STYLE TRANSFER – TASK 2 REPORT
 Company: CODTECH IT SOLUTIONS
-Intern Name: Gadamsetty Ritisha
-Intern ID: CT04DN1447
+Intern Name: GOPA SAI KRISHNA
+Intern ID: CT04DF217
 Domain: Artificial Intelligence
 Duration: 4 Weeks
 Mentor: Neela Santosh
